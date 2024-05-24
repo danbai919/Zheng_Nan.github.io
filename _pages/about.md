@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a fourth year undergraduate student from [School of Traffic and Transportation](http://trans.njtu.edu.cn/cms/), [Beijing Jiaotong University](https://www.bjtu.edu.cn). My research interest includes traffic planning, traffic management, passenger flow analysis, and systerm science.
 I will continue my future studies at [Zhongfa Aviation Institution](http://zfai.buaa.edu.cn),[Beihang University](https://www.buaa.edu.cn). I am very fortunate to be advised by [A.P. Binghua Li](https://shi.buaa.edu.cn/libinghua/en/index/211205/list/index.htm) of New Navigation System Lab from [Zhongfa Aviation Institution], Beihang University.
-You can find my CV here: [Nan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Nan's Curriculum Vitae](../assets/Zheng Nan-resume.pdf).
 Contect me: [Email](mailto:2965133412@qq.com) / [Github](https://github.com/QiuDi233) / [Wechat](../images/IMG_0122.jpg) 
 
 A data-driven personal website
