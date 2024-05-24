@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a fourth year undergraduate student from [School of Traffic and Transportation](http://trans.njtu.edu.cn/cms/), [Beijing Jiaotong University](https://www.bjtu.edu.cn). My research interest includes traffic planning, traffic management, passenger flow analysis, and systerm science.
+I will continue my future studies at [Zhongfa Aviation Institution](http://zfai.buaa.edu.cn),[Beihang University](https://www.buaa.edu.cn). I am very fortunate to be advised by [A.P. Binghua Li](https://shi.buaa.edu.cn/libinghua/en/index/211205/list/index.htm) of New Navigation System Lab from [Zhongfa Aviation Institution], Beihang University.
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
 A data-driven personal website
 ======
