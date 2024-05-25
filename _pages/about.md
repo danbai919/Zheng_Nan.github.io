@@ -13,7 +13,7 @@ I will continue my future studies at [Zhongfa Aviation Institution](http://zfai.
 
 You can find my CV here: [Nan's Curriculum Vitae](../assets/Zheng Nan-resume.pdf).
 
-Contect me: [Email](mailto:2965133412@qq.com) / [Github](https://github.com/QiuDi233) / [Wechat](../images/IMG_0122.jpg) 
+Contect me: [Email](mailto:2965133412@qq.com) / [Wechat](../images/IMG_0122.jpg) 
 
 A data-driven personal website
 ======
